@@ -2,7 +2,7 @@ ship = Luceafarul SII
 version = 1.12.3
 description = 200km
 type = VAB
-size = 3.48662567,9.97577286,3.48662567
+size = 3.48662567,10.025773,3.48662567
 steamPublishedFileId = 0
 persistentId = 678288788
 rot = 0,0,0,0
@@ -12,7 +12,7 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.7|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.44.0|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.2|System.Core=4.6.57|System=4.6.57|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|PatchManager=0.0.17|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|ROEngines=2.6.0|ROHeatshields=1.1.0|ROLib=1.9.1|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.4.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.7.1|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.3|Kerbalism=3.19.0
+_modVersions = Scale_Redist=2.4.7|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.44.0|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CameraTools=1.32.0|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|DistantObject=0.0.0|KSPe.Light.DOE=2.4.2|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PQSManager=1.11.7|PartFX=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.2|System.Core=4.6.57|System=4.6.57|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PlanetShine=0.2.6|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|ROEngines=2.6.0|ROHeatshields=1.1.0|ROLib=1.9.1|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.4.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.7.1|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|scatterer=0.838.0|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TUFX=1.0.7|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.3|Kerbalism=3.19.0
 PART
 {
 	part = proceduralAvionics_4292802454
@@ -36,13 +36,13 @@ PART
 	sepI = -1
 	attm = 0
 	sameVesselCollision = False
-	modCost = 3.19307518
-	modMass = -0.951909184
+	modCost = 43.7752419
+	modMass = -0.951568604
 	modSize = 0,0,0
 	link = ROT-GenericTank-Separate_4292620344
 	link = RO-RFTank-Separate_4292672256
-	attN = top,RO-RFTank-Separate_4292672256_0|0.075000003|0_0|1|0_0|0.075000003|0_0|1|0
-	attN = bottom,ROT-GenericTank-Separate_4292620344_0|-0.075000003|0_0|-1|0_0|-0.075000003|0_0|-1|0
+	attN = top,RO-RFTank-Separate_4292672256_0|0.100000001|0_0|1|0_0|0.100000001|0_0|1|0
+	attN = bottom,ROT-GenericTank-Separate_4292620344_0|-0.100000001|0_0|-1|0_0|-0.100000001|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -115,7 +115,7 @@ PART
 		name = ProceduralShapeCylinder
 		isEnabled = True
 		diameter = 0.352000028
-		length = 0.150000006
+		length = 0.200000003
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1099,8 +1099,8 @@ PART
 		isEnabled = True
 		type = Battery-I
 		utilization = 50
-		volume = 0.13439999999999999
-		mass = 9.08118382E-05
+		volume = 2.5672000000000001
+		mass = 0.000431410881
 		_numberOfAddedMLILayers = 0
 		stagingEnabled = True
 		EVENTS
@@ -2129,7 +2129,7 @@ PART
 	part = ROT-GenericTank-Separate_4292620344
 	partName = Part
 	persistentId = 3418932521
-	pos = -0.382433891,6.55452681,-0.376014173
+	pos = -0.382433891,6.52952671,-0.376014173
 	attPos = 0,0,0
 	attPos0 = 0,-0.894006133,0
 	rot = 0,0,0,1
@@ -2541,7 +2541,7 @@ PART
 	part = ROE-Aerobee_4292639178
 	partName = Part
 	persistentId = 3779944151
-	pos = -0.382433891,5.58312654,-0.376014173
+	pos = -0.382433891,5.55812645,-0.376014173
 	attPos = 0,0.0239995122,0
 	attPos0 = 0,-0.995399952,0
 	rot = 0,0,0,1
@@ -2829,7 +2829,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -2998,7 +2998,7 @@ PART
 	part = RO-RFTank-Separate_4292672256
 	partName = Part
 	persistentId = 1124363564
-	pos = -0.382433891,8.5221405,-0.376014173
+	pos = -0.382433891,8.54714012,-0.376014173
 	attPos = 0,0.0844917297,0
 	attPos0 = 0,1.07360554,0
 	rot = 0,0,0,1
@@ -3554,7 +3554,7 @@ PART
 	part = ROT-RingDecoupler_4290962812
 	partName = Part
 	persistentId = 1845214766
-	pos = -0.382433891,5.34207487,-0.376014173
+	pos = -0.382433891,5.31707478,-0.376014173
 	attPos = 0,0,0
 	attPos0 = 0,-0.241050661,0
 	rot = 0,0,0,1
@@ -3831,7 +3831,7 @@ PART
 	part = RO-RFTank-Separate_4290941316
 	partName = Part
 	persistentId = 58721426
-	pos = -0.382433891,5.53714895,-0.376014173
+	pos = -0.382433891,5.51214886,-0.376014173
 	attPos = 0,0.596323967,0
 	attPos0 = 0,-0.501250267,0
 	rot = 0,0,0,1
@@ -4356,7 +4356,7 @@ PART
 	part = conformaldecals-flag_4292658884
 	partName = Part
 	persistentId = 2998587481
-	pos = -0.649435639,7.90389204,-0.376014173
+	pos = -0.649435639,7.92889166,-0.376014173
 	attPos = 0,0,0
 	attPos0 = -0.275543123,-0.61824894,0
 	rot = 0.00881333277,0.707051873,-0.00881333277,0.707051814
@@ -4504,7 +4504,7 @@ PART
 	part = conformaldecals-flag_4292651362
 	partName = Part
 	persistentId = 2827971653
-	pos = -0.115432203,7.90389204,-0.376014203
+	pos = -0.115432203,7.92889166,-0.376014203
 	attPos = 0,0,0
 	attPos0 = 0.275543123,-0.61824894,-2.98023224E-08
 	rot = -0.00881333277,0.707051754,-0.00881333277,-0.707051933
@@ -4652,7 +4652,7 @@ PART
 	part = ROT-GenericTank-Separate_4289810466
 	partName = Part
 	persistentId = 4255960459
-	pos = -0.382433891,4.11674976,-0.376014173
+	pos = -0.382433891,4.09174967,-0.376014173
 	attPos = 0,0,0
 	attPos0 = 0,-1.42039979,0
 	rot = 0,0.382683277,0,-0.923879623
@@ -5088,7 +5088,7 @@ PART
 	part = ROE-Aerobee_4289810258
 	partName = Part
 	persistentId = 1297909034
-	pos = -0.382433891,2.74534893,-0.376014173
+	pos = -0.382433891,2.72034883,-0.376014173
 	attPos = 0,0.0239995122,0
 	attPos0 = 0,-1.39539981,0
 	rot = 0,0.382683277,0,-0.923879623
@@ -5368,7 +5368,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -5537,7 +5537,7 @@ PART
 	part = AM.MLP.MilkstoolMini1S_4289809524
 	partName = Part
 	persistentId = 3394322551
-	pos = -0.382433891,-0.131632328,-0.376014173
+	pos = -0.382433891,-0.156632423,-0.376014173
 	attPos = 0,0,0
 	attPos0 = 0,-2.87698078,0
 	rot = 0,-0.887010694,0,0.461749107
@@ -5778,10 +5778,10 @@ PART
 	part = strutCube_4289809328
 	partName = Part
 	persistentId = 2498574670
-	pos = -0.535037279,2.26836777,-1.12833667
+	pos = -0.535037279,2.24336767,-1.12833667
 	attPos = 0.650043726,-0.213711739,0.556517482
 	attPos0 = -1.17877889,2.61371136,6.26314431E-08
-	rot = -0.0616285503,0.704416037,-0.704416037,-0.0616285503
+	rot = -0.0616285652,0.704416156,-0.704416156,-0.0616285652
 	attRot = 0,0,0.382683277,-0.923879623
 	attRot0 = -0.65328145,0.270598173,-0.270598173,-0.65328145
 	mir = 1,1,1
@@ -5920,10 +5920,10 @@ PART
 	part = AM.MLP.LaunchStandSmallPole_4289809294
 	partName = Part
 	persistentId = 3912035009
-	pos = -0.548606038,1.44617987,-1.2052958
+	pos = -0.548606038,1.42117977,-1.20529604
 	attPos = -1.11758709E-08,0.276925981,0.822187424
 	attPos0 = 0,-0.198785603,0
-	rot = 0.0497974791,-0.640856028,-0.0593460798,0.76374203
+	rot = 0.0497975051,-0.640856028,-0.0593461022,0.763742089
 	attRot = -2.98023206E-08,2.98023206E-08,0.0774708018,-0.996994555
 	attRot0 = 0.537232697,-0.459761858,0.537232697,-0.459761918
 	mir = 1,1,1
@@ -6176,7 +6176,7 @@ PART
 	part = strutCube_4289809022
 	partName = Part
 	persistentId = 1930520125
-	pos = -0.229623437,2.36240101,0.490613043
+	pos = -0.229623407,2.33740091,0.490613222
 	attPos = -0.121103108,0,-0.00763142109
 	attPos0 = 0.743349135,2.49403286,-0.614614785
 	rot = -0.704415798,-0.0616286993,0.0616285503,-0.704416394
@@ -6318,7 +6318,7 @@ PART
 	part = AM.MLP.LaunchStandSmallPole_4289808988
 	partName = Part
 	persistentId = 1528530400
-	pos = -0.229625165,2.76240158,0.490610182
+	pos = -0.229625165,2.73740149,0.490610182
 	attPos = -2.46888874E-08,0.198786318,-0.400000155
 	attPos0 = 0,-0.198785603,0
 	rot = -0.0593461804,0.763742626,-0.0497971997,0.640855432
@@ -6574,7 +6574,7 @@ PART
 	part = ROE-SmallLC_4283457028
 	partName = Part
 	persistentId = 1328409773
-	pos = -1.46572626,-0.306632519,-0.185000211
+	pos = -1.46572661,-0.331632614,-0.185000122
 	attPos = 0.777817547,0.299999237,0.777818203
 	attPos0 = 0,-0.474999428,0
 	rot = 0,0.642787516,0,-0.766044676
@@ -6647,8 +6647,8 @@ PART
 	{
 		name = LaunchClamp
 		isEnabled = True
-		scaleFactor = 0.0194208212
-		height = 0.00607299805
+		scaleFactor = -0.0605269074
+		height = -0.0189270973
 		stagingEnabled = True
 		towerRot = 0,-0.642787457,0,-0.766044617
 		EVENTS
@@ -6792,7 +6792,7 @@ PART
 	part = RO-B9ProcWing-Early_4289127800
 	partName = Part
 	persistentId = 3453188534
-	pos = -0.454614609,2.64174938,-0.448233038
+	pos = -0.454614609,2.61674929,-0.448233038
 	attPos = 0.0683627874,-0.357482433,-2.69971788E-05
 	attPos0 = -0.10210593,-1.47500038,-2.70046294E-05
 	rot = -0.000489274506,0.924009979,0.00118162902,0.3823663
@@ -7118,7 +7118,7 @@ PART
 	part = RO-B9ProcWing-Early_4291828096
 	partName = Part
 	persistentId = 2749629048
-	pos = -0.454652756,2.64174938,-0.303833455
+	pos = -0.454652756,2.61674929,-0.303833455
 	attPos = -2.69748271E-05,-0.357482433,-0.0683627576
 	attPos0 = -2.70046294E-05,-1.47500038,0.10210593
 	rot = 0.000489568512,0.92374754,0.00118150713,-0.383000076
@@ -7444,10 +7444,10 @@ PART
 	part = RO-B9ProcWing-Early_4291827960
 	partName = Part
 	persistentId = 2949003058
-	pos = -0.310253173,2.64174938,-0.303795308
+	pos = -0.310253173,2.61674929,-0.303795308
 	attPos = -0.0683627874,-0.357482433,2.69971788E-05
 	attPos0 = 0.10210593,-1.47500038,2.70046294E-05
-	rot = 0.00118162914,0.38236627,0.000489274389,-0.924010038
+	rot = 0.00118162902,0.38236627,0.000489274331,-0.924009979
 	attRot = -0.00127892033,0.00034282275,1.14387021E-07,0.999999344
 	attRot0 = -0.0012789201,0.000342726707,1.58994226E-07,0.999999166
 	mir = 1,1,1
@@ -7770,7 +7770,7 @@ PART
 	part = RO-B9ProcWing-Early_4291827824
 	partName = Part
 	persistentId = 1483613456
-	pos = -0.310215026,2.64174938,-0.448194891
+	pos = -0.310215026,2.61674929,-0.448194891
 	attPos = 2.69971788E-05,-0.357482433,0.0683627874
 	attPos0 = 2.70046294E-05,-1.47500038,-0.10210593
 	rot = 0.00118150713,-0.383000076,-0.000489568512,-0.92374754
@@ -8096,7 +8096,7 @@ PART
 	part = ROT-BoosterTank-Separate_4289807708
 	partName = Part
 	persistentId = 583605938
-	pos = -0.607826471,4.31069851,-0.376014113
+	pos = -0.607826471,4.28569841,-0.376014113
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.159376636,0.193948746,0.159376621
 	rot = -0.0308432579,0.706433654,0.0308436118,-0.706433892
@@ -8114,7 +8114,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4289807548
@@ -8357,7 +8357,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -8411,7 +8411,7 @@ PART
 	part = ROE-R103_4289807548
 	partName = Part
 	persistentId = 3444309232
-	pos = -0.607826769,3.61336231,-0.437022835
+	pos = -0.607826769,3.58836222,-0.437022835
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = 0.0402989201,0.38231945,0.0166920889,0.923000216
@@ -8762,7 +8762,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -8910,7 +8910,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286602012
 	partName = Part
 	persistentId = 2923684982
-	pos = -0.596794963,4.31069851,-0.30636397
+	pos = -0.596794963,4.28569841,-0.30636397
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.102326103,0.193948746,0.200826272
 	rot = -0.0256385189,0.587225795,0.035288807,-0.808247089
@@ -8928,7 +8928,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286601896
@@ -9171,7 +9171,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -9225,10 +9225,10 @@ PART
 	part = ROE-R103_4286601896
 	partName = Part
 	persistentId = 805071435
-	pos = -0.615648031,3.61336231,-0.364386588
+	pos = -0.615648031,3.58836222,-0.364386588
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0424139947,0.522001266,0.0101824291,0.851828873
+	rot = 0.0424139947,0.522001207,0.0101824282,0.851828814
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -9576,7 +9576,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -9724,7 +9724,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286601792
 	partName = Part
 	persistentId = 523601246
-	pos = -0.564780295,4.31069851,-0.243531674
+	pos = -0.564780295,4.28569841,-0.243531674
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.0352591723,0.193948746,0.222617656
 	rot = -0.0198024847,0.453558266,0.0388650931,-0.890158653
@@ -9742,7 +9742,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286601676
@@ -9985,7 +9985,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -10039,7 +10039,7 @@ PART
 	part = ROE-R103_4286601676
 	partName = Part
 	persistentId = 3083209379
-	pos = -0.600640535,3.61336231,-0.292888552
+	pos = -0.600640535,3.58836222,-0.292888552
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = 0.0434847027,0.648830295,0.00342206843,0.75968194
@@ -10390,7 +10390,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -10538,10 +10538,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286601572
 	partName = Part
 	persistentId = 3452408761
-	pos = -0.514916241,4.31069851,-0.19366765
+	pos = -0.514916241,4.28569841,-0.19366765
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.0352592245,0.193948746,0.222617626
-	rot = -0.0134788435,0.308722675,0.0414844118,-0.950151384
+	rot = -0.0134788435,0.308722675,0.0414844155,-0.950151384
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.00342255831,0.0783844516,-0.0434847102,0.995968461
 	mir = 1,1,1
@@ -10556,7 +10556,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286601456
@@ -10799,7 +10799,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -10853,10 +10853,10 @@ PART
 	part = ROE-R103_4286601456
 	partName = Part
 	persistentId = 1440003948
-	pos = -0.564273477,3.61336231,-0.229527324
+	pos = -0.564273477,3.58836222,-0.229527295
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0434846506,0.759682357,-0.00342257228,0.648829758
+	rot = 0.0434846543,0.759682417,-0.003422576,0.648829818
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -11204,7 +11204,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -11352,7 +11352,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286601352
 	partName = Part
 	persistentId = 2932224168
-	pos = -0.452083975,4.31069851,-0.161653042
+	pos = -0.452083975,4.28569841,-0.161653042
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.102326095,0.193948746,0.200826287
 	rot = -0.0068233069,0.156285465,0.0430822186,-0.986748457
@@ -11370,7 +11370,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286601236
@@ -11613,7 +11613,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -11667,10 +11667,10 @@ PART
 	part = ROE-R103_4286601236
 	partName = Part
 	persistentId = 495699238
-	pos = -0.510106742,3.61336231,-0.180505484
+	pos = -0.510106742,3.58836222,-0.180505484
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0424139127,0.851828814,-0.0101829376,0.522001147
+	rot = 0.0424139164,0.851828873,-0.0101829404,0.522001207
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -12018,7 +12018,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -12166,7 +12166,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286601132
 	partName = Part
 	persistentId = 2238372361
-	pos = -0.382433832,4.31069851,-0.150621623
+	pos = -0.382433832,4.28569841,-0.150621623
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.159376606,0.193948746,0.159376606
 	rot = 2.44006515E-07,-2.08616257E-07,0.0436191894,-0.999048233
@@ -12184,7 +12184,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286601016
@@ -12427,7 +12427,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -12481,7 +12481,7 @@ PART
 	part = ROE-R103_4286601016
 	partName = Part
 	persistentId = 4162569924
-	pos = -0.443442523,3.61336231,-0.15062128
+	pos = -0.443442553,3.58836222,-0.150621235
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = 0.0402987227,0.923000336,-0.0166925602,0.382319033
@@ -12832,7 +12832,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -12980,10 +12980,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286600912
 	partName = Part
 	persistentId = 2373872742
-	pos = -0.312783659,4.31069851,-0.161653072
+	pos = -0.312783659,4.28569841,-0.161653072
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.200826317,0.193948746,0.102326095
-	rot = 0.00682379119,-0.156285852,0.0430821553,-0.986748219
+	rot = 0.00682379212,-0.156285852,0.0430821627,-0.986748219
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0227911659,0.522001326,-0.0371913463,0.851828575
 	mir = 1,1,1
@@ -12998,7 +12998,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286600796
@@ -13241,7 +13241,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -13295,10 +13295,10 @@ PART
 	part = ROE-R103_4286600796
 	partName = Part
 	persistentId = 1482333035
-	pos = -0.370806277,3.61336231,-0.142800078
+	pos = -0.370806277,3.58836222,-0.142800078
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0371912643,0.971444666,-0.022791151,0.233222887
+	rot = 0.0371912606,0.971444607,-0.022791151,0.233222872
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -13646,7 +13646,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -13794,10 +13794,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286600692
 	partName = Part
 	persistentId = 1869609404
-	pos = -0.249951318,4.31069851,-0.19366765
+	pos = -0.249951318,4.28569841,-0.19366765
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.222617775,0.193948746,0.0352592021
-	rot = 0.0134792896,-0.308723032,0.0414842404,-0.950151384
+	rot = 0.0134792849,-0.308723003,0.0414842367,-0.950151324
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0283285752,0.648829937,-0.0331681445,0.759682238
 	mir = 1,1,1
@@ -13812,7 +13812,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286600576
@@ -14055,7 +14055,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -14109,10 +14109,10 @@ PART
 	part = ROE-R103_4286600576
 	partName = Part
 	persistentId = 1195656219
-	pos = -0.29930824,3.61336231,-0.15780738
+	pos = -0.29930824,3.58836222,-0.15780738
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0331680886,0.995968699,-0.028328551,0.0783842802
+	rot = 0.0331680849,0.99596858,-0.0283285473,0.0783842504
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -14460,7 +14460,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -14608,7 +14608,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286600472
 	partName = Part
 	persistentId = 3299240203
-	pos = -0.200087413,4.31069851,-0.243531793
+	pos = -0.200087413,4.28569841,-0.243531793
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.222617626,0.193948746,-0.0352591723
 	rot = 0.0198029149,-0.453558624,0.0388648771,-0.890158474
@@ -14626,7 +14626,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286600356
@@ -14869,7 +14869,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -14923,7 +14923,7 @@ PART
 	part = ROE-R103_4286600356
 	partName = Part
 	persistentId = 3856837974
-	pos = -0.235947236,3.61336231,-0.194174528
+	pos = -0.235947236,3.58836222,-0.194174528
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = 0.0283281654,0.99596858,-0.0331684165,-0.0783846378
@@ -15274,7 +15274,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -15422,10 +15422,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286600252
 	partName = Part
 	persistentId = 3097181964
-	pos = -0.16807276,4.31069851,-0.306364089
+	pos = -0.16807276,4.28569841,-0.306364089
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.200826287,0.193948746,-0.102326095
-	rot = 0.025638897,-0.587226033,0.035288509,-0.80824697
+	rot = 0.0256388895,-0.587226033,0.0352885053,-0.80824697
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0371915959,0.851828694,-0.0227907635,0.522001326
 	mir = 1,1,1
@@ -15440,7 +15440,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286600136
@@ -15683,7 +15683,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -15737,10 +15737,10 @@ PART
 	part = ROE-R103_4286600136
 	partName = Part
 	persistentId = 2858610106
-	pos = -0.186925158,3.61336231,-0.248341262
+	pos = -0.186925158,3.58836222,-0.248341233
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0227907132,0.971444428,-0.0371915326,-0.233223319
+	rot = 0.0227907114,0.971444428,-0.0371915326,-0.233223319
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -16088,7 +16088,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -16236,7 +16236,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286600032
 	partName = Part
 	persistentId = 2562794684
-	pos = -0.157041192,4.31069851,-0.376014233
+	pos = -0.157041162,4.28569841,-0.376014233
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.159376681,0.193948746,-0.159376696
 	rot = 0.0308435932,-0.706433892,0.0308432505,-0.706433594
@@ -16254,7 +16254,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286599916
@@ -16497,7 +16497,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -16551,10 +16551,10 @@ PART
 	part = ROE-R103_4286599916
 	partName = Part
 	persistentId = 3905532823
-	pos = -0.157040849,3.61336231,-0.315005541
+	pos = -0.157040805,3.58836222,-0.315005541
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.0166920926,0.923000097,-0.0402989164,-0.38231954
+	rot = 0.0166920964,0.923000097,-0.0402989164,-0.38231954
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -16902,7 +16902,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -17050,7 +17050,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286599812
 	partName = Part
 	persistentId = 1360584273
-	pos = -0.16807285,4.31069851,-0.445664406
+	pos = -0.16807285,4.28569841,-0.445664406
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.10232605,0.193948746,-0.200826272
 	rot = 0.0352888107,-0.808247209,0.025638517,-0.587225556
@@ -17068,7 +17068,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286599696
@@ -17311,7 +17311,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17365,7 +17365,7 @@ PART
 	part = ROE-R103_4286599696
 	partName = Part
 	persistentId = 3807744189
-	pos = -0.149219841,3.61336231,-0.387641788
+	pos = -0.149219841,3.58836222,-0.387641788
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = 0.010182431,0.851828456,-0.0424140058,-0.522001565
@@ -17716,7 +17716,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -17864,7 +17864,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286599592
 	partName = Part
 	persistentId = 1029042005
-	pos = -0.200087503,4.31069851,-0.508496761
+	pos = -0.200087503,4.28569841,-0.508496761
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = 0.0352591202,0.193948746,-0.222617656
 	rot = 0.0388650969,-0.890158653,0.0198024772,-0.453558266
@@ -17882,7 +17882,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286599476
@@ -18125,7 +18125,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18179,10 +18179,10 @@ PART
 	part = ROE-R103_4286599476
 	partName = Part
 	persistentId = 3557465088
-	pos = -0.164227173,3.61336231,-0.459139824
+	pos = -0.164227143,3.58836222,-0.459139824
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = 0.00342205726,0.759682059,-0.0434846953,-0.648830295
+	rot = 0.00342205726,0.75968194,-0.0434846953,-0.648830295
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -18530,7 +18530,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -18678,7 +18678,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286599372
 	partName = Part
 	persistentId = 1284488341
-	pos = -0.249951422,4.31069851,-0.558360577
+	pos = -0.249951422,4.28569841,-0.558360577
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.0352590904,0.193948746,-0.222617656
 	rot = 0.0414843932,-0.950151324,0.0134788491,-0.308722794
@@ -18696,7 +18696,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286599256
@@ -18939,7 +18939,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18993,10 +18993,10 @@ PART
 	part = ROE-R103_4286599256
 	partName = Part
 	persistentId = 1760946026
-	pos = -0.200594127,3.61336231,-0.522500873
+	pos = -0.200594127,3.58836222,-0.522500873
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = -0.00342255924,0.648829699,-0.0434846319,-0.759682417
+	rot = -0.00342255738,0.648829699,-0.0434846319,-0.759682477
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -19344,7 +19344,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -19492,7 +19492,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286599152
 	partName = Part
 	persistentId = 839790742
-	pos = -0.312783778,4.31069851,-0.590375304
+	pos = -0.312783778,4.28569841,-0.590375304
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.102326065,0.193948746,-0.200826302
 	rot = 0.0430822074,-0.986748457,0.0068233097,-0.156285465
@@ -19510,7 +19510,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286599036
@@ -19753,7 +19753,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -19807,7 +19807,7 @@ PART
 	part = ROE-R103_4286599036
 	partName = Part
 	persistentId = 2865618477
-	pos = -0.254760802,3.61336231,-0.571522832
+	pos = -0.254760802,3.58836222,-0.571522832
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = -0.0101829311,0.522001266,-0.0424138606,-0.851828814
@@ -20158,7 +20158,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -20306,7 +20306,7 @@ PART
 	part = ROT-BoosterTank-Separate_4286598932
 	partName = Part
 	persistentId = 546316344
-	pos = -0.382433951,4.31069851,-0.601406753
+	pos = -0.382433951,4.28569841,-0.601406753
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.159376606,0.193948746,-0.159376606
 	rot = 0.0436191894,-0.999048233,-2.44006515E-07,2.08616257E-07
@@ -20324,7 +20324,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286598816
@@ -20567,7 +20567,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -20621,10 +20621,10 @@ PART
 	part = ROE-R103_4286598816
 	partName = Part
 	persistentId = 817571940
-	pos = -0.321425259,3.61336231,-0.601407051
+	pos = -0.321425259,3.58836222,-0.601407051
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = -0.0166925527,0.382319033,-0.0402987376,-0.923000336
+	rot = -0.0166925564,0.382319033,-0.0402987413,-0.923000336
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -20972,7 +20972,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -21120,10 +21120,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286598712
 	partName = Part
 	persistentId = 2511884381
-	pos = -0.452084124,4.31069851,-0.590375185
+	pos = -0.452084124,4.28569841,-0.590375185
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.200826272,0.193948746,-0.10232605
-	rot = 0.0430821553,-0.986748219,-0.00682379119,0.156285852
+	rot = 0.0430821627,-0.986748219,-0.00682379212,0.156285852
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0371913463,0.851828575,0.0227911659,-0.522001326
 	mir = 1,1,1
@@ -21138,7 +21138,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286598596
@@ -21381,7 +21381,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21435,10 +21435,10 @@ PART
 	part = ROE-R103_4286598596
 	partName = Part
 	persistentId = 562861475
-	pos = -0.394061506,3.61336231,-0.609228253
+	pos = -0.394061506,3.58836222,-0.609228253
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = -0.0227911528,0.233223036,-0.0371912718,-0.971444488
+	rot = -0.022791151,0.233223066,-0.0371912718,-0.971444488
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -21786,7 +21786,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -21934,10 +21934,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286598492
 	partName = Part
 	persistentId = 3651093665
-	pos = -0.51491642,4.31069851,-0.558360577
+	pos = -0.51491642,4.28569841,-0.558360577
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.222617641,0.193948746,-0.0352591276
-	rot = 0.0414842367,-0.950151145,-0.013479298,0.30872348
+	rot = 0.0414842404,-0.950151145,-0.0134792961,0.308723539
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0331681371,0.759682178,0.0283285789,-0.648830056
 	mir = 1,1,1
@@ -21952,7 +21952,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286598376
@@ -22195,7 +22195,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -22249,10 +22249,10 @@ PART
 	part = ROE-R103_4286598376
 	partName = Part
 	persistentId = 595598371
-	pos = -0.465559542,3.61336231,-0.594220877
+	pos = -0.465559542,3.58836222,-0.594220877
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = -0.0283285454,0.0783838928,-0.0331680775,-0.995968521
+	rot = -0.0283285491,0.078383863,-0.0331680812,-0.995968699
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -22600,7 +22600,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -22748,10 +22748,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286598272
 	partName = Part
 	persistentId = 1546531392
-	pos = -0.564780354,4.31069851,-0.508496523
+	pos = -0.564780354,4.28569841,-0.508496523
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.222617626,0.193948746,0.0352591723
-	rot = 0.038864851,-0.890158415,-0.0198029019,0.453558505
+	rot = 0.038864851,-0.890158415,-0.0198028982,0.453558505
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0283282176,0.648829937,0.0331684388,-0.759682178
 	mir = 1,1,1
@@ -22766,7 +22766,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286598156
@@ -23009,7 +23009,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -23063,7 +23063,7 @@ PART
 	part = ROE-R103_4286598156
 	partName = Part
 	persistentId = 3409158230
-	pos = -0.528920591,3.61336231,-0.557853818
+	pos = -0.528920591,3.58836222,-0.557853818
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
 	rot = -0.0331684053,-0.078384608,-0.0283281542,-0.995968521
@@ -23414,7 +23414,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -23562,10 +23562,10 @@ PART
 	part = ROT-BoosterTank-Separate_4286598052
 	partName = Part
 	persistentId = 166803610
-	pos = -0.596795022,4.31069851,-0.445664257
+	pos = -0.596795022,4.28569841,-0.445664257
 	attPos = -0.00862747431,0.0666427612,-0.0137897879
 	attPos0 = -0.200826287,0.193948746,0.102326095
-	rot = 0.035288509,-0.80824697,-0.025638897,0.587226033
+	rot = 0.0352885053,-0.80824697,-0.0256388895,0.587226033
 	attRot = -7.33167971E-09,-4.62644856E-09,0.0436191894,-0.999048233
 	attRot0 = -0.0227907635,0.522001326,0.0371915959,-0.851828694
 	mir = 1,1,1
@@ -23580,7 +23580,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0.146148756
+	modCost = 20.3881168
 	modMass = -0.999895751
 	modSize = 0,0,0
 	link = ROE-R103_4286597936
@@ -23823,7 +23823,7 @@ PART
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 0
+		addedCost = 20.2419682
 		stagingEnabled = True
 		EVENTS
 		{
@@ -23877,10 +23877,10 @@ PART
 	part = ROE-R103_4286597936
 	partName = Part
 	persistentId = 1547046364
-	pos = -0.57794255,3.61336231,-0.503687024
+	pos = -0.57794255,3.58836222,-0.503687024
 	attPos = 0,0,0
 	attPos0 = -1.05367146E-08,-0.699999809,3.11866053E-08
-	rot = -0.0371915363,-0.233223736,-0.0227907188,-0.971444488
+	rot = -0.0371915363,-0.233223736,-0.0227907207,-0.971444488
 	attRot = 0,0,0,1
 	attRot0 = 1.14048779E-08,-0.923879564,2.75338081E-08,-0.382683456
 	mir = 1,1,1
@@ -24228,7 +24228,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 46740.859872654808
+		missionStartTime = 2497592.9800000554
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
