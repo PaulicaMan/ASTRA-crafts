@@ -2,7 +2,7 @@ ship = Zmeu I
 version = 1.12.3
 description = 
 type = SPH
-size = 20.2224159,2.39962196,8.37234688
+size = 20.2224121,2.39962196,8.37234688
 steamPublishedFileId = 0
 persistentId = 2533542745
 rot = 0,0,0,0
@@ -12,7 +12,7 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.7|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.44.0|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.2|System.Core=4.6.57|System=4.6.57|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|PatchManager=0.0.17|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|ROEngines=2.6.0|ROHeatshields=1.1.0|ROLib=1.9.1|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.4.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.7.1|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.3|Kerbalism=3.19.0
+_modVersions = Scale_Redist=2.5.0|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.45.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CameraTools=1.34.0|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|DistantObject=0.0.0|KSPe.Light.DOE=2.4.2|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PQSManager=1.11.7|PartFX=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|HotSpot=0.9.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.4|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PlanetShine=0.2.6|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|ROEngines=2.7.0|ROHeatshields=1.1.0|ROLib=1.9.1|System.Core=4.6.57|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.5.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.8.0|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|scatterer=0.838.0|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TUFX=1.0.7|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.4|Kerbalism=3.19.0
 PART
 {
 	part = RO-X1Cockpit_4293164698
@@ -243,6 +243,21 @@ PART
 	MODULE
 	{
 		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HotSpotModule
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
@@ -1498,7 +1513,7 @@ PART
 	part = RO-RFTank-Separate_4293146626
 	partName = Part
 	persistentId = 3933179412
-	pos = 0,5,-0.250004351
+	pos = 0,5,-0.250004828
 	attPos = 0,0,0
 	attPos0 = 0,-1,5.96046448E-08
 	rot = 0.707106829,0,0,0.707106829
@@ -1516,7 +1531,7 @@ PART
 	sepI = -1
 	attm = 0
 	sameVesselCollision = False
-	modCost = 47.7489624
+	modCost = 12.2997446
 	modMass = -0.830698371
 	modSize = 0,0,0
 	link = LRadialAirIntake_4292853438
@@ -1814,6 +1829,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = SSTURecolorGUI
 		isEnabled = True
 		stagingEnabled = True
@@ -1898,19 +1928,13 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = RFTech-Tank-Sep-Al
-			upgrade = RFTech-Tank-Sep-Al2
-			upgrade = RFTech-Tank-Sep-AlCu
-			upgrade = RFTech-Tank-Sep-AlLi
-			upgrade = RFTech-Tank-Sep-Stir
-			upgrade = RFTech-Tank-Sep-Starship
 		}
 	}
 	MODULE
 	{
 		name = ModuleToolingPTank
 		isEnabled = True
-		addedCost = 35.4492188
+		addedCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1975,7 +1999,7 @@ PART
 	part = LRadialAirIntake_4292853438
 	partName = Part
 	persistentId = 1921450195
-	pos = 0,5.5413146,0.667401969
+	pos = 0,5.5413146,0.667401731
 	attPos = -6.23758254E-08,0.167209268,0.101584733
 	attPos0 = 6.23758254E-08,0.750194967,-0.642899513
 	rot = -0.70102793,1.28989228E-07,1.3121678E-07,-0.713133991
@@ -2097,6 +2121,21 @@ PART
 	MODULE
 	{
 		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HotSpotModule
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
@@ -2406,6 +2445,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleFuelTanks
 		isEnabled = True
 		type = Structural
@@ -2499,7 +2553,7 @@ PART
 	pos = 0.100000024,5,2.05000091
 	attPos = -0.523700356,1.37901521,-1.26659842E-07
 	attPos0 = 0.62370038,0.920984089,-5.215405E-08
-	rot = -0.707081318,-0.00605318742,0.00605290337,-0.707080603
+	rot = -0.707081318,-0.00605318649,0.00605290243,-0.707080603
 	attRot = 0,0,0,1
 	attRot0 = -3.87430191E-07,-2.04425305E-07,0.00856031105,-0.999963403
 	mir = 1,1,1
@@ -2761,6 +2815,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleFuelTanks
 		isEnabled = True
 		type = Structural
@@ -2851,10 +2920,10 @@ PART
 	part = RO-DerwentV_4292866402
 	partName = Part
 	persistentId = 982768031
-	pos = -0.100000001,5,-0.650005162
+	pos = -0.100000001,5,-0.650005639
 	attPos = 0.521749139,-1.38270485,1.17346616E-07
 	attPos0 = -0.621749163,0.982704043,-5.77419854E-08
-	rot = 0.499608874,-0.499608666,-0.500391006,0.500391006
+	rot = 0.499608874,-0.499608696,-0.500391006,0.500391006
 	attRot = 0.707106709,0,0,0.707106709
 	attRot0 = -0.000553071441,-0.707106531,-0.000553160848,0.70710665
 	mir = 1,1,1
@@ -3081,6 +3150,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleEngineConfigs
 		isEnabled = True
 		activePatchName = 
@@ -3154,7 +3238,7 @@ PART
 	part = RO-DerwentV_4292834620
 	partName = Part
 	persistentId = 3074688710
-	pos = 0.100000001,5,-0.6500054
+	pos = 0.100000001,5,-0.650005877
 	attPos = -0.521749139,-1.38270509,1.17346616E-07
 	attPos0 = 0.621749163,0.982703984,-5.77419854E-08
 	rot = 0.499608994,0.499608696,0.500391006,0.500390887
@@ -3376,6 +3460,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleEngineConfigs
 		isEnabled = True
 		activePatchName = 
@@ -3449,7 +3548,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292817486
 	partName = Part
 	persistentId = 3898722569
-	pos = -9.99999142,5,-3.10487628
+	pos = -9.99998951,5,-3.10487723
 	attPos = -0.0131998062,-0.142561913,-4.32076968E-06
 	attPos0 = 9.99999905,-4.84205246,-6.17203284E-07
 	rot = 0.49570179,0.495701343,0.504261911,0.504261851
@@ -3739,6 +3838,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleShowInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -3758,7 +3872,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292816550
 	partName = Part
 	persistentId = 2215886534
-	pos = 10.0000124,5,-3.10487819
+	pos = 10.0000124,5,-3.10487914
 	attPos = -0.0131950378,-0.142563343,4.39601536E-06
 	attPos0 = 9.99999809,-4.84205437,4.0673749E-06
 	rot = 0.50426209,0.504261911,0.49570179,0.495701194
@@ -4048,6 +4162,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleShowInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -4067,7 +4196,7 @@ PART
 	part = GearSmall_4292807192
 	partName = Part
 	persistentId = 1845217312
-	pos = 0.300000012,4.69380188,0.149995029
+	pos = 0.300000012,4.69380188,0.149994671
 	attPos = -0.140809506,0.293207437,0.0516967773
 	attPos0 = 0.440809518,0.106790997,0.254501343
 	rot = 0.0755566657,-0.00219876319,0.123677336,0.989439487
@@ -4367,6 +4496,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = Deploy
 		isEnabled = True
 		isBroken = False
@@ -4567,7 +4711,7 @@ PART
 	part = GearSmall_4292806250
 	partName = Part
 	persistentId = 4123577384
-	pos = -0.300000012,4.69380188,0.149995208
+	pos = -0.300000012,4.69380188,0.14999485
 	attPos = 0.140809506,0.293207437,0.0516966581
 	attPos0 = -0.440809518,0.106791116,0.254501402
 	rot = 0.0755566657,0.00219876319,-0.123677336,0.989439487
@@ -4843,6 +4987,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = Deploy
 		isEnabled = True
 		isBroken = False
@@ -5043,7 +5202,7 @@ PART
 	part = GearSmall_4292802226
 	partName = Part
 	persistentId = 2142609512
-	pos = 0,4.79999971,2.25000691
+	pos = 0,4.79999971,2.25000739
 	attPos = 0,0.0216521025,-0.121110559
 	attPos0 = 0,1.47834861,0.321110606
 	rot = -0.173443556,2.73790712E-11,-1.55463226E-10,0.98484385
@@ -5342,6 +5501,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = Deploy
 		isEnabled = True
 		isBroken = False
@@ -5542,7 +5716,7 @@ PART
 	part = RO-B9ProcCS-Early_4292796992
 	partName = Part
 	persistentId = 3822399210
-	pos = -8.99998283,5,-2.85000968
+	pos = -8.99998093,5,-2.85001063
 	attPos = -0.176510811,-0.208496094,-3.70741009E-06
 	attPos0 = 9.15909195,-4.53841877,-3.94948614E-07
 	rot = 0.70708102,-0.0060535511,0.0060534915,0.707080781
@@ -5815,6 +5989,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleShowInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -5834,7 +6023,7 @@ PART
 	part = RO-B9ProcCS-Early_4292796644
 	partName = Part
 	persistentId = 1920723397
-	pos = 8.99999809,5,-2.85001159
+	pos = 8.99999809,5,-2.85001254
 	attPos = -0.176510811,-0.208495617,4.70470013E-06
 	attPos0 = 9.15909195,-4.53842115,4.37652807E-06
 	rot = 0.707081079,0.0060535511,-0.00605349056,0.707080841
@@ -6107,6 +6296,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleShowInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -6126,7 +6330,7 @@ PART
 	part = RO-B9ProcCS-Early_4292792934
 	partName = Part
 	persistentId = 2964553187
-	pos = -1.79999912,5,0.849996388
+	pos = -1.799999,5,0.84999603
 	attPos = 0.725441873,-0.588292062,-1.37627217E-06
 	attPos0 = 0.994853079,-0.582428157,4.28690782E-07
 	rot = -0.70708102,0.0060535511,-0.0060534915,-0.707080781
@@ -6399,6 +6603,21 @@ PART
 	}
 	MODULE
 	{
+		name = HotSpotModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleShowInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -6418,7 +6637,7 @@ PART
 	part = RO-B9ProcCS-Early_4292792612
 	partName = Part
 	persistentId = 1729055990
-	pos = 1.80000174,5,0.849996269
+	pos = 1.80000174,5,0.84999603
 	attPos = 0.725442529,-0.58829242,1.85515057E-06
 	attPos0 = 0.99485302,-0.582428277,6.77188297E-08
 	rot = 0.707081139,0.00605355017,-0.00605348963,0.707080781
@@ -6677,6 +6896,21 @@ PART
 	MODULE
 	{
 		name = FARAeroPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HotSpotModule
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
