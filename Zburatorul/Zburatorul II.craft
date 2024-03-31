@@ -2,7 +2,7 @@ ship = Zburatorul II
 version = 1.12.3
 description = 
 type = SPH
-size = 6.00500154,2.36058331,14.8442011
+size = 6.00500154,2.36058331,14.8442068
 steamPublishedFileId = 0
 persistentId = 3613364195
 rot = 0,0,0,0
@@ -12,7 +12,7 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.7|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.44.0|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.2|System.Core=4.6.57|System=4.6.57|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|PatchManager=0.0.17|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|ROEngines=2.6.0|ROHeatshields=1.1.0|ROLib=1.9.1|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.4.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.7.1|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.3|Kerbalism=3.19.0
+_modVersions = Scale_Redist=2.5.0|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression.FileSystem=4.6.57|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Burst=0.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|SolverEngines=3.13.1|AJE=2.20.0|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.45.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BetterTimeWarpCont=2.3.13|CameraTools=1.34.0|CCK=5.1.0|ConformalDecals=0.2.12|ContractConfigurator=2.9.2|CustomBarnKit=1.1.22|DepthMask=1.1.3|DistantObject=0.0.0|KSPe.Light.DOE=2.4.2|EditorExtensionsRedux=3.4.5|EngineGroupController=1.0.0|UnityGUIFramework=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PQSManager=1.11.7|PartFX=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|HangerExtenderExtended=3.6.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HUDReplacer=1.0.0|Historian=1.8.0|HotSpot=0.9.0|JanitorsCloset=0.3.8|KSCSwitcher=2.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.34.1|KSPWheel=0.0.0|KerbalChangelog=1.4.2|KerbalJointReinforcement=3.7.4|Renamer=1.7.0|KerbalismBootstrap=3.19.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.198|LunarTransferPlanner=0.0.0|MagiCore=1.4.0|MechJeb2=2.14.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|alglib=1.0.0|NavHudRenewed=1.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PlanetShine=0.2.6|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|ROEngines=2.7.0|ROHeatshields=1.1.0|ROLib=1.9.1|System.Core=4.6.57|ROLoadingImages=1.0.0|ROUtils=1.0.1|RealFuels=15.8.3|RP0=3.5.0|CC_RP0=1.11.0|ClearInputLocks=1.0.0|RP0InstallChecker=1.0.0|RSSTimeFormatter=1.12.0|Restock=0.1.0|RealAntennas=2.1.1|RealChute=1.4.7845|RealHeat=5.1.0|RealSolarSystem=20.1.2|ROInstallChecker=1.1.0|RealismOverhaul=17.8.0|RetractableLiftingSurface=0.2.1|SXTContinued=0.3.29|scatterer=0.838.0|Shabby=0.3.0|SMInterface=6.0.3|CLSInterfaces=2.0.1|ShipManifest=6.0.8|SmokeScreen=2.8.14|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|TUFX=1.0.7|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|KerbalAlarmClock=3.14.0|TransferWindowPlanner=1.9.1|WasdEditorCameraContinued=0.7.3|Waterfall=0.0.0|WaypointManager=2.8.4|Kerbalism=3.19.0
 PART
 {
 	part = RO-OldFighterCockpit_4293044960
@@ -1496,7 +1496,7 @@ PART
 	part = RO-B9ProcWing-Early_4292979170
 	partName = Part
 	persistentId = 2614702619
-	pos = 0.521170259,7.64160442,-3.76895642
+	pos = 0.521170259,7.64160442,-3.76895714
 	attPos = -0.120276213,0.0479884148,0
 	attPos0 = 0.620276213,-0.942952514,1.1920929E-07
 	rot = -0.696748316,4.18562216E-08,-4.06303151E-08,-0.717315853
@@ -1558,10 +1558,12 @@ PART
 		ResourcesEnableFlow
 		{
 			actionGroup = None
+			active = False
 		}
 		ResourcesDisableFlow
 		{
 			actionGroup = None
+			active = False
 		}
 	}
 	PARTDATA
@@ -1775,63 +1777,6 @@ PART
 		ACTIONS
 		{
 		}
-		TANK
-		{
-			name = LqdOxygen
-			note = (lacks insulation)
-			utilization = 1
-			mass = 1.40000002E-05
-			cost = 9.99999975E-05
-			loss_rate = 0
-			wallThickness = 0.0025000000000000001
-			wallConduction = 16
-			insulationThickness = 0.01
-			insulationConduction = 0.02
-			isDewar = False
-			temperature = 90.1500015
-			fillable = True
-			techRequired = 
-			amount = 42.735472880180396
-			maxAmount = 42.735472880180396
-		}
-		TANK
-		{
-			name = HTP
-			note = 
-			utilization = 1
-			mass = 1.6E-05
-			cost = 0.0046000001
-			loss_rate = 0
-			wallThickness = 0.10000000000000001
-			wallConduction = 205
-			insulationThickness = 0
-			insulationConduction = 1
-			isDewar = False
-			temperature = 300
-			fillable = True
-			techRequired = 
-			amount = 0.90965245511651749
-			maxAmount = 0.90965245511651749
-		}
-		TANK
-		{
-			name = Ethanol75
-			note = 
-			utilization = 1
-			mass = 1.29999999E-05
-			cost = 9.99999975E-05
-			loss_rate = 0
-			wallThickness = 0.10000000000000001
-			wallConduction = 205
-			insulationThickness = 0
-			insulationConduction = 1
-			isDewar = False
-			temperature = 300
-			fillable = True
-			techRequired = 
-			amount = 48.229774664703079
-			maxAmount = 48.229774664703079
-		}
 		UPGRADESAPPLIED
 		{
 		}
@@ -1872,49 +1817,16 @@ PART
 		{
 		}
 	}
-	RESOURCE
-	{
-		name = Ethanol75
-		amount = 48.229774664703079
-		maxAmount = 48.229774664703079
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = LqdOxygen
-		amount = 42.735472880180396
-		maxAmount = 42.735472880180396
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = HTP
-		amount = 0.90965245511651749
-		maxAmount = 0.90965245511651749
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
 }
 PART
 {
 	part = RO-B9ProcCS-Early_4292979034
 	partName = Part
 	persistentId = 337529912
-	pos = 2.52117014,7.57877874,-6.29935503
+	pos = 2.52117014,7.57877874,-6.29935789
 	attPos = 0.219005108,-0.445376158,-0.0107924733
 	attPos0 = 1.78099465,-2.08573461,-3.34752144E-07
-	rot = 0.696655571,0.0113701988,-0.0117038377,0.717220247
+	rot = 0.696655571,0.0113702044,-0.0117038433,0.717220247
 	attRot = -0.674379706,0.212631106,0.674379706,-0.212631121
 	attRot0 = 2.74269496E-11,1.39169526E-06,-0.0163172595,0.999866962
 	mir = 1,1,1
@@ -2203,7 +2115,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292978950
 	partName = Part
 	persistentId = 1431520075
-	pos = 3.02117014,7.54160452,-6.26900434
+	pos = 3.02117014,7.54160452,-6.26900721
 	attPos = 0.517580032,-0.433370113,0.0272478163
 	attPos0 = 1.98241973,-2.06848359,6.07211803E-07
 	rot = 0.492675871,0.507219195,0.492675275,0.50721848
@@ -2512,7 +2424,7 @@ PART
 	part = RO-B9ProcWing-Early_4292977848
 	partName = Part
 	persistentId = 1664714938
-	pos = -0.478829741,7.64160442,-3.76895618
+	pos = -0.478829741,7.64160442,-3.7689569
 	attPos = 0.120276213,0.0479912758,0
 	attPos0 = -0.620276213,-0.942952514,1.1920929E-07
 	rot = -1.01744888E-08,-0.717316151,-0.696748018,7.32111758E-08
@@ -2574,10 +2486,12 @@ PART
 		ResourcesEnableFlow
 		{
 			actionGroup = None
+			active = False
 		}
 		ResourcesDisableFlow
 		{
 			actionGroup = None
+			active = False
 		}
 	}
 	PARTDATA
@@ -2791,63 +2705,6 @@ PART
 		ACTIONS
 		{
 		}
-		TANK
-		{
-			name = LqdOxygen
-			note = (lacks insulation)
-			utilization = 1
-			mass = 1.40000002E-05
-			cost = 9.99999975E-05
-			loss_rate = 0
-			wallThickness = 0.0025000000000000001
-			wallConduction = 16
-			insulationThickness = 0.01
-			insulationConduction = 0.02
-			isDewar = False
-			temperature = 90.1500015
-			fillable = True
-			techRequired = 
-			amount = 42.735472880180396
-			maxAmount = 42.735472880180396
-		}
-		TANK
-		{
-			name = HTP
-			note = 
-			utilization = 1
-			mass = 1.6E-05
-			cost = 0.0046000001
-			loss_rate = 0
-			wallThickness = 0.10000000000000001
-			wallConduction = 205
-			insulationThickness = 0
-			insulationConduction = 1
-			isDewar = False
-			temperature = 300
-			fillable = True
-			techRequired = 
-			amount = 0.90965245511651749
-			maxAmount = 0.90965245511651749
-		}
-		TANK
-		{
-			name = Ethanol75
-			note = 
-			utilization = 1
-			mass = 1.29999999E-05
-			cost = 9.99999975E-05
-			loss_rate = 0
-			wallThickness = 0.10000000000000001
-			wallConduction = 205
-			insulationThickness = 0
-			insulationConduction = 1
-			isDewar = False
-			temperature = 300
-			fillable = True
-			techRequired = 
-			amount = 48.229774664703079
-			maxAmount = 48.229774664703079
-		}
 		UPGRADESAPPLIED
 		{
 		}
@@ -2888,46 +2745,13 @@ PART
 		{
 		}
 	}
-	RESOURCE
-	{
-		name = Ethanol75
-		amount = 48.229774664703079
-		maxAmount = 48.229774664703079
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = LqdOxygen
-		amount = 42.735472880180396
-		maxAmount = 42.735472880180396
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = HTP
-		amount = 0.90965245511651749
-		maxAmount = 0.90965245511651749
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
 }
 PART
 {
 	part = RO-B9ProcCS-Early_4292977706
 	partName = Part
 	persistentId = 2115669382
-	pos = -2.47882986,7.57877874,-6.2993536
+	pos = -2.47882986,7.57877874,-6.29935646
 	attPos = 0.219004631,-0.445374489,0.0107955262
 	attPos0 = 1.78099465,-2.08573461,-3.34752144E-07
 	rot = -0.696655512,0.0113701606,-0.0117038013,-0.717220306
@@ -3219,7 +3043,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292977622
 	partName = Part
 	persistentId = 726401043
-	pos = -2.97882986,7.54160452,-6.26900291
+	pos = -2.97882986,7.54160452,-6.26900578
 	attPos = 0.517579556,-0.433399439,-0.0272456706
 	attPos0 = 1.98241973,-2.06848359,6.07211803E-07
 	rot = 0.492675275,0.507218719,0.492675722,0.507219195
@@ -3528,7 +3352,7 @@ PART
 	part = RO-RFTank-Separate_4293042072
 	partName = Part
 	persistentId = 2780081625
-	pos = 0.0211702436,7.64160442,-5.95907021
+	pos = 0.0211702436,7.64160442,-5.95907307
 	attPos = 0,0,0
 	attPos0 = 0,-2.58500051,2.38418579E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -3546,8 +3370,8 @@ PART
 	sepI = -1
 	attm = 0
 	sameVesselCollision = False
-	modCost = 19.9776382
-	modMass = -0.695465326
+	modCost = 18.6854248
+	modMass = -0.262812614
 	modSize = 0,0,0
 	attN = top,RO-OldFighterCockpit_4293044960_0|1.5|0_0|1|0_0|1.5|0_0|1|0
 	attN = bottom,Null_0_0|-1.5|0_0|-1|0_0|-1.5|0_0|-1|0
@@ -3888,10 +3712,10 @@ PART
 	{
 		name = ModuleFuelTanks
 		isEnabled = True
-		type = Tank-Sep-Steel
-		utilization = 83
-		volume = 2109.8811000000001
-		mass = 0.304534644
+		type = Tank-Sep-Steel-HP
+		utilization = 75
+		volume = 1906.5191
+		mass = 0.737187386
 		_numberOfAddedMLILayers = 0
 		stagingEnabled = True
 		EVENTS
@@ -3905,7 +3729,7 @@ PART
 			name = Ethanol75
 			note = 
 			utilization = 1
-			mass = 5.99999985E-05
+			mass = 0.000159999996
 			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.10000000000000001
@@ -3916,16 +3740,16 @@ PART
 			temperature = 361.799988
 			fillable = True
 			techRequired = 
-			amount = 1107.5831377483503
-			maxAmount = 1107.5831377483503
+			amount = 875.59989718912914
+			maxAmount = 875.59989718912914
 		}
 		TANK
 		{
-			name = HTP
+			name = Nitrogen
 			note = 
-			utilization = 1
-			mass = 5.99999985E-05
-			cost = 0.0046000001
+			utilization = 200
+			mass = 0.000159999996
+			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.10000000000000001
 			wallConduction = 205
@@ -3935,15 +3759,15 @@ PART
 			temperature = 300
 			fillable = True
 			techRequired = 
-			amount = 20.889911418885241
-			maxAmount = 20.889911418885241
+			amount = 20306.120018774407
+			maxAmount = 20306.120018774407
 		}
 		TANK
 		{
 			name = LqdOxygen
 			note = 
 			utilization = 1
-			mass = 5.99999985E-05
+			mass = 0.000159999996
 			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.0025000000000000001
@@ -3951,20 +3775,14 @@ PART
 			insulationThickness = 0.01
 			insulationConduction = 0.02
 			isDewar = False
-			temperature = 94.25
+			temperature = 112.099998
 			fillable = True
 			techRequired = 
-			amount = 981.40805083276518
-			maxAmount = 981.40805083276518
+			amount = 929.38860271699889
+			maxAmount = 929.38860271699889
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = RFTech-Tank-Sep-Al
-			upgrade = RFTech-Tank-Sep-Al2
-			upgrade = RFTech-Tank-Sep-AlCu
-			upgrade = RFTech-Tank-Sep-AlLi
-			upgrade = RFTech-Tank-Sep-Stir
-			upgrade = RFTech-Tank-Sep-Starship
 		}
 	}
 	MODULE
@@ -4022,8 +3840,8 @@ PART
 	RESOURCE
 	{
 		name = Ethanol75
-		amount = 1107.5831377483503
-		maxAmount = 1107.5831377483503
+		amount = 875.59989718912914
+		maxAmount = 875.59989718912914
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -4033,8 +3851,8 @@ PART
 	RESOURCE
 	{
 		name = LqdOxygen
-		amount = 981.40805083276518
-		maxAmount = 981.40805083276518
+		amount = 929.38860271699889
+		maxAmount = 929.38860271699889
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -4043,9 +3861,9 @@ PART
 	}
 	RESOURCE
 	{
-		name = HTP
-		amount = 20.889911418885241
-		maxAmount = 20.889911418885241
+		name = Nitrogen
+		amount = 20306.120018774407
+		maxAmount = 20306.120018774407
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -4058,7 +3876,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292976926
 	partName = Part
 	persistentId = 1469103324
-	pos = -0.0200918838,7.64160442,5.42682409
+	pos = -0.0200918838,7.64160442,5.42682981
 	attPos = 0.579337955,8.42642117,-9.68575478E-07
 	attPos0 = -0.620600104,-0.125732556,1.49011612E-08
 	rot = -4.21468513E-08,-0.707106769,-0.707106888,0
@@ -4367,7 +4185,7 @@ PART
 	part = RO-B9ProcAMWing-Early_4292387886
 	partName = Part
 	persistentId = 3221030288
-	pos = 0.0624323711,7.64160442,5.426826
+	pos = 0.0624323711,7.64160442,5.42683172
 	attPos = -0.579337955,8.42642307,-9.68575478E-07
 	attPos0 = 0.620600104,-0.125732556,1.49011612E-08
 	rot = -0.707107067,-3.0908641E-08,-7.30554746E-08,-0.70710659
@@ -4676,7 +4494,7 @@ PART
 	part = RO-B9ProcCS-Early_4291553200
 	partName = Part
 	persistentId = 4166811258
-	pos = -1.27373254,7.59262276,-5.44992352
+	pos = -1.27373254,7.59262276,-5.44992495
 	attPos = 0.230451345,-0.00847184658,-7.16000868E-05
 	attPos0 = 0.564451098,-1.67319643,6.14672956E-07
 	rot = -0.0113873677,0.716247737,0.697627842,0.0132337054
@@ -4968,7 +4786,7 @@ PART
 	part = RO-B9ProcCS-Early_4291549924
 	partName = Part
 	persistentId = 2570168058
-	pos = 1.31607306,7.59262276,-5.44992399
+	pos = 1.31607306,7.59262276,-5.44992542
 	attPos = 0.230451405,-0.00847280025,7.16000868E-05
 	attPos0 = 0.564451218,-1.6731962,9.42498559E-07
 	rot = 0.0113873677,0.716247797,0.697627783,-0.0132336998
@@ -5260,7 +5078,7 @@ PART
 	part = RO-RFTank-Separate_4293023512
 	partName = Part
 	persistentId = 1914729396
-	pos = 0.0211702436,7.64160442,2.71107054
+	pos = 0.0211702436,7.64160442,2.7110734
 	attPos = 0,0,0
 	attPos0 = 0,5.58500051,-4.76837158E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -5278,8 +5096,8 @@ PART
 	sepI = -1
 	attm = 0
 	sameVesselCollision = False
-	modCost = 31.4977512
-	modMass = -0.616198301
+	modCost = 31.4120998
+	modMass = -0.0627375841
 	modSize = 0,0,0
 	link = RO-RFTank-Separate_4290204984
 	link = GearSmall_4292849102
@@ -5622,10 +5440,10 @@ PART
 	{
 		name = ModuleFuelTanks
 		isEnabled = True
-		type = Tank-Sep-Steel
+		type = Tank-Sep-Steel-HP
 		utilization = 7
 		volume = 362.07709999999997
-		mass = 0.383801728
+		mass = 0.937262416
 		_numberOfAddedMLILayers = 0
 		stagingEnabled = True
 		EVENTS
@@ -5639,7 +5457,7 @@ PART
 			name = Ethanol75
 			note = 
 			utilization = 1
-			mass = 5.99999985E-05
+			mass = 0.000159999996
 			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.10000000000000001
@@ -5650,16 +5468,16 @@ PART
 			temperature = 361.799988
 			fillable = True
 			techRequired = 
-			amount = 190.07255457420007
-			maxAmount = 190.07255457420007
+			amount = 166.28979564617947
+			maxAmount = 166.28979564617947
 		}
 		TANK
 		{
-			name = HTP
+			name = Nitrogen
 			note = 
-			utilization = 1
-			mass = 5.99999985E-05
-			cost = 0.0046000001
+			utilization = 200
+			mass = 0.000159999996
+			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.10000000000000001
 			wallConduction = 205
@@ -5669,15 +5487,15 @@ PART
 			temperature = 300
 			fillable = True
 			techRequired = 
-			amount = 3.5849217028423301
-			maxAmount = 3.5849217028423301
+			amount = 3856.4423763967443
+			maxAmount = 3856.4423763967443
 		}
 		TANK
 		{
 			name = LqdOxygen
 			note = 
 			utilization = 1
-			mass = 5.99999985E-05
+			mass = 0.000159999996
 			cost = 9.99999975E-05
 			loss_rate = 0
 			wallThickness = 0.0025000000000000001
@@ -5685,20 +5503,14 @@ PART
 			insulationThickness = 0.01
 			insulationConduction = 0.02
 			isDewar = False
-			temperature = 94.25
+			temperature = 112.099998
 			fillable = True
 			techRequired = 
-			amount = 168.41962372295794
-			maxAmount = 168.41962372295794
+			amount = 176.5050924718368
+			maxAmount = 176.5050924718368
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = RFTech-Tank-Sep-Al
-			upgrade = RFTech-Tank-Sep-Al2
-			upgrade = RFTech-Tank-Sep-AlCu
-			upgrade = RFTech-Tank-Sep-AlLi
-			upgrade = RFTech-Tank-Sep-Stir
-			upgrade = RFTech-Tank-Sep-Starship
 		}
 	}
 	MODULE
@@ -5756,8 +5568,8 @@ PART
 	RESOURCE
 	{
 		name = Ethanol75
-		amount = 190.07255457420007
-		maxAmount = 190.07255457420007
+		amount = 166.28979564617947
+		maxAmount = 166.28979564617947
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -5767,8 +5579,8 @@ PART
 	RESOURCE
 	{
 		name = LqdOxygen
-		amount = 168.41962372295794
-		maxAmount = 168.41962372295794
+		amount = 176.5050924718368
+		maxAmount = 176.5050924718368
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -5777,9 +5589,9 @@ PART
 	}
 	RESOURCE
 	{
-		name = HTP
-		amount = 3.5849217028423301
-		maxAmount = 3.5849217028423301
+		name = Nitrogen
+		amount = 3856.4423763967443
+		maxAmount = 3856.4423763967443
 		flowState = True
 		isTweakable = True
 		hideFlow = False
@@ -5792,7 +5604,7 @@ PART
 	part = RO-RFTank-Separate_4290204984
 	partName = Part
 	persistentId = 52489880
-	pos = 0.021170225,8.44160557,-0.835212231
+	pos = 0.021170225,8.44160557,-0.8352108
 	attPos = -1.1920929E-07,-1.08040905,0.32368803
 	attPos0 = 1.00582838E-07,-2.46583843,-1.1236887
 	rot = 0.698848009,-3.09562971E-08,-3.16837578E-08,0.7152704
@@ -5810,8 +5622,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 5.52830696
-	modMass = -0.978275418
+	modCost = 5.40777874
+	modMass = -0.909998059
 	modSize = 0,0,0
 	link = RO-RFTank-Separate_4291132446
 	srfN = srfAttach,RO-RFTank-Separate_4293023512,Mesh_Collider_0,1.49061008E-09|0|0.125,0|0|-1,1.49061008E-09|0|0.125
@@ -5853,12 +5665,10 @@ PART
 		ResourcesEnableFlow
 		{
 			actionGroup = None
-			active = False
 		}
 		ResourcesDisableFlow
 		{
 			actionGroup = None
-			active = False
 		}
 	}
 	PARTDATA
@@ -6156,10 +5966,10 @@ PART
 	{
 		name = ModuleFuelTanks
 		isEnabled = True
-		type = Tank-Sep-Steel
-		utilization = 83
-		volume = 257.59179999999998
-		mass = 0.0217246097
+		type = Tank-Sep-Steel-HP
+		utilization = 75
+		volume = 232.7637
+		mass = 0.0900019631
 		_numberOfAddedMLILayers = 0
 		stagingEnabled = True
 		EVENTS
@@ -6168,14 +5978,65 @@ PART
 		ACTIONS
 		{
 		}
+		TANK
+		{
+			name = Ethanol75
+			note = 
+			utilization = 1
+			mass = 0.000159999996
+			cost = 9.99999975E-05
+			loss_rate = 0
+			wallThickness = 0.10000000000000001
+			wallConduction = 205
+			insulationThickness = 0
+			insulationConduction = 1
+			isDewar = False
+			temperature = 361.799988
+			fillable = True
+			techRequired = 
+			amount = 106.90051402546206
+			maxAmount = 106.90051402546206
+		}
+		TANK
+		{
+			name = Nitrogen
+			note = 
+			utilization = 200
+			mass = 0.000159999996
+			cost = 9.99999975E-05
+			loss_rate = 0
+			wallThickness = 0.10000000000000001
+			wallConduction = 205
+			insulationThickness = 0
+			insulationConduction = 1
+			isDewar = False
+			temperature = 300
+			fillable = True
+			techRequired = 
+			amount = 2479.1399300505304
+			maxAmount = 2479.1399300505304
+		}
+		TANK
+		{
+			name = LqdOxygen
+			note = 
+			utilization = 1
+			mass = 0.000159999996
+			cost = 9.99999975E-05
+			loss_rate = 0
+			wallThickness = 0.0025000000000000001
+			wallConduction = 16
+			insulationThickness = 0.01
+			insulationConduction = 0.02
+			isDewar = False
+			temperature = 112.099998
+			fillable = True
+			techRequired = 
+			amount = 113.4674863242853
+			maxAmount = 113.4674863242853
+		}
 		UPGRADESAPPLIED
 		{
-			upgrade = RFTech-Tank-Sep-Al
-			upgrade = RFTech-Tank-Sep-Al2
-			upgrade = RFTech-Tank-Sep-AlCu
-			upgrade = RFTech-Tank-Sep-AlLi
-			upgrade = RFTech-Tank-Sep-Stir
-			upgrade = RFTech-Tank-Sep-Starship
 		}
 	}
 	MODULE
@@ -6229,6 +6090,39 @@ PART
 		UPGRADESAPPLIED
 		{
 		}
+	}
+	RESOURCE
+	{
+		name = Ethanol75
+		amount = 106.90051402546206
+		maxAmount = 106.90051402546206
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+	RESOURCE
+	{
+		name = LqdOxygen
+		amount = 113.4674863242853
+		maxAmount = 113.4674863242853
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+	RESOURCE
+	{
+		name = Nitrogen
+		amount = 2479.1399300505304
+		maxAmount = 2479.1399300505304
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
 	}
 }
 PART
@@ -6612,12 +6506,6 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = RFTech-Tank-Sep-Al
-			upgrade = RFTech-Tank-Sep-Al2
-			upgrade = RFTech-Tank-Sep-AlCu
-			upgrade = RFTech-Tank-Sep-AlLi
-			upgrade = RFTech-Tank-Sep-Stir
-			upgrade = RFTech-Tank-Sep-Starship
 		}
 	}
 	MODULE
@@ -6678,7 +6566,7 @@ PART
 	part = GearSmall_4292875970
 	partName = Part
 	persistentId = 3266678399
-	pos = 0.32117027,7.30552292,-3.67398715
+	pos = 0.32117027,7.30552292,-3.67398787
 	attPos = -0.239205837,-1.96022892,0.0247709751
 	attPos0 = 0.539205849,1.16022861,0.311310649
 	rot = 0,-1.2293458E-07,0.0679368377,0.997689724
@@ -7154,7 +7042,7 @@ PART
 	part = GearSmall_4289618274
 	partName = Part
 	persistentId = 2195408271
-	pos = -0.278829753,7.30552292,-3.67398739
+	pos = -0.278829753,7.30552292,-3.6739881
 	attPos = 0.239205837,-1.96022916,0.0247709751
 	attPos0 = -0.539205849,1.16022861,0.311310649
 	rot = 0,1.1920929E-07,-0.0679368302,0.997689724
@@ -7630,7 +7518,7 @@ PART
 	part = GearSmall_4292849102
 	partName = Part
 	persistentId = 787835584
-	pos = 0.0211702436,7.54160452,4.69383717
+	pos = 0.0211702436,7.54160452,4.69384289
 	attPos = 0,-0.385875702,-0.106179237
 	attPos0 = 0,2.36862183,0.206178665
 	rot = -0.0626866817,-2.20908625E-10,3.51707241E-09,0.998033404
@@ -8129,7 +8017,7 @@ PART
 	part = ROE-XLR11_4290402892
 	partName = Part
 	persistentId = 1659748182
-	pos = 0.221170276,7.64160442,-7.17399168
+	pos = 0.221170276,7.64160442,-7.17399454
 	attPos = -0.421435833,-5.13555098,5.96046448E-07
 	attPos0 = 0.621435881,0.835549235,-1.1920929E-07
 	rot = 0.707106888,4.21468549E-08,-4.21468549E-08,0.707106769
@@ -8147,13 +8035,13 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = -27
-	modMass = 0.0351071954
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = ROE-XLR11_4289945272
 	srfN = srfAttach,RO-OldFighterCockpit_4293044960,collider,0|0|0,0|1|0,0|0|0
 	attN = top,Null_0_0|0|0_0|1|0_0|0|0_0|1|0
-	attN = bottom,Null_0_0|-0.536000013|0_0|-1|0_0|-0.621999979|0_0|-1|0
+	attN = bottom,Null_0_0|-0.536000013|0_0|-1|0_0|-0.536000013|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -8259,9 +8147,9 @@ PART
 		isEnabled = True
 		autoCutoff = True
 		ignited = False
-		ignitions = 1
+		ignitions = -1
 		partSeed = -1
-		calculatedResiduals = 0.0040000000000000001
+		calculatedResiduals = 0.016
 		independentThrottle = False
 		independentThrottlePercentage = 0
 		staged = False
@@ -8348,7 +8236,7 @@ PART
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = model
-		currentSubtype = rm5
+		currentSubtype = rm3
 		EVENTS
 		{
 		}
@@ -8443,8 +8331,8 @@ PART
 		isEnabled = True
 		activePatchName = 
 		dynamicPatchApplied = False
-		configuration = XLR35-RM-1
-		configurationDisplay = XLR35-RM-1
+		configuration = XLR11-RM-3
+		configurationDisplay = XLR11-RM-3
 		techLevel = -1
 		thrustRating = maxThrust
 		modded = False
@@ -8466,7 +8354,7 @@ PART
 		stagingEnabled = True
 		engineTags
 		{
-			item = EngineLiquidTurbo
+			item = EngineLiquidPF
 			item = Cryogenic
 		}
 		tankTags
@@ -8503,7 +8391,7 @@ PART
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = rowaterfallMainPlumeSwitch
-		currentSubtype = rm5
+		currentSubtype = rm3
 		EVENTS
 		{
 		}
@@ -8537,7 +8425,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 2957745.4801037316
+		missionStartTime = 22191042.781052452
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
@@ -8721,7 +8609,7 @@ PART
 	part = ROE-XLR11_4289945272
 	partName = Part
 	persistentId = 3093709152
-	pos = -0.178829789,7.64160442,-7.17399263
+	pos = -0.178829789,7.64160442,-7.17399549
 	attPos = 0.421435833,-5.13555193,5.96046448E-07
 	attPos0 = -0.621435881,0.835549235,-1.1920929E-07
 	rot = 0.707106948,-4.21468478E-08,4.21468478E-08,0.707106709
@@ -8739,13 +8627,13 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = -27
-	modMass = 0.0351071954
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = ROE-XLR11_4290402892
 	srfN = srfAttach,RO-OldFighterCockpit_4293044960,collider,0|0|0,0|1|0,0|0|0
 	attN = top,Null_0_0|0|0_0|1|0_0|0|0_0|1|0
-	attN = bottom,Null_0_0|-0.536000013|0_0|-1|0_0|-0.621999979|0_0|-1|0
+	attN = bottom,Null_0_0|-0.536000013|0_0|-1|0_0|-0.536000013|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -8851,9 +8739,9 @@ PART
 		isEnabled = True
 		autoCutoff = True
 		ignited = False
-		ignitions = 1
+		ignitions = -1
 		partSeed = -1
-		calculatedResiduals = 0.0040000000000000001
+		calculatedResiduals = 0.016
 		independentThrottle = False
 		independentThrottlePercentage = 0
 		staged = False
@@ -8932,7 +8820,7 @@ PART
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = model
-		currentSubtype = rm5
+		currentSubtype = rm3
 		EVENTS
 		{
 		}
@@ -9027,8 +8915,8 @@ PART
 		isEnabled = True
 		activePatchName = 
 		dynamicPatchApplied = False
-		configuration = XLR35-RM-1
-		configurationDisplay = XLR35-RM-1
+		configuration = XLR11-RM-3
+		configurationDisplay = XLR11-RM-3
 		techLevel = -1
 		thrustRating = maxThrust
 		modded = False
@@ -9050,7 +8938,7 @@ PART
 		stagingEnabled = True
 		engineTags
 		{
-			item = EngineLiquidTurbo
+			item = EngineLiquidPF
 			item = Cryogenic
 		}
 		tankTags
@@ -9087,7 +8975,7 @@ PART
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = rowaterfallMainPlumeSwitch
-		currentSubtype = rm5
+		currentSubtype = rm3
 		EVENTS
 		{
 		}
@@ -9121,7 +9009,7 @@ PART
 		lastMET = 0
 		currentFlightData = 0
 		initialFlightData = 0
-		missionStartTime = 2957745.4801037316
+		missionStartTime = 22191042.781052452
 		activeConfig = 
 		stagingEnabled = True
 		EVENTS
