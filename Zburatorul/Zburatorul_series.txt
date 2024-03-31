@@ -1,1 +1,5 @@
 Planes designed for high speed research.
+
+1 for more flaps
+2 for less flaps
+3 toggle engines
